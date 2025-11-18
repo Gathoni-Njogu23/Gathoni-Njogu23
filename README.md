@@ -9,10 +9,7 @@ I'm currently diving into exciting projects — like the bank churn prediction,s
 
 ## 🔧 Skills & Projects
 
-- 💼 First project: **Bank Churn Prediction**
-- 🧠 Love querying data with **MySQL**
-- 📈 Visualizing data using **power bi**
-- analysing and cleaning using python and excel
+- for my projects i have pinned them below
 
 ## 🎉 Fun Facts
 
