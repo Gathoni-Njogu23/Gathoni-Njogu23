@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="git.jpg" width="800" alt="MAUREEN GITHUB BANNER">
+  <img src="pic.jpg" width="800" alt="MAUREEN GITHUB BANNER">
 </p>
 
 # Hey, I am Maureen! 👋
