@@ -4,14 +4,15 @@
 
 # Hey, I am Maureen! 👋
 
-I'm a data scientist who loves both analytics and machine learning.  
-I'm currently diving into exciting projects — especially building **chatbots** 🤖 and visualizing data to discover hidden insights 📊.
+I'm a data analyst who is currently learning how to find patterns and insights using excel,power bi and sql 
+I'm currently diving into exciting projects — like the bank churn prediction,spinix sales and social media peformance tracker
 
 ## 🔧 Skills & Projects
 
 - 💼 First project: **Bank Churn Prediction**
 - 🧠 Love querying data with **MySQL**
-- 📈 Visualizing data using **Tableau**
+- 📈 Visualizing data using **power bi**
+- analysing and cleaning using python and excel
 
 ## 🎉 Fun Facts
 
