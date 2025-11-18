@@ -4,7 +4,7 @@
 
 # Hey, I am Maureen! 👋
 
-I'm a data analyst who is currently learning how to find patterns and insights using excel,power bi and sql 
+I'm a data analyst and aspiring data scientist who is currently learning how to find patterns and insights using excel,power bi and sql 
 I'm currently diving into exciting projects — like the bank churn prediction,spinix sales and social media peformance tracker
 
 ## 🔧 Skills & Projects
